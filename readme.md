@@ -21,3 +21,8 @@ Set up react native fro your OS as described at https://facebook.github.io/react
 # Contributers welcome
 
 Since I'm just getting started with react-native give me a hint or create a pull request if you would something in a different way.
+
+
+
+This project was inspired by Wern Ancheta - https://www.sitepoint.com/author/wancheta/
+See: https://www.sitepoint.com/authentication-in-react-native-with-firebase/
